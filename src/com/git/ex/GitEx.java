@@ -7,8 +7,7 @@ public class GitEx {
 		String hungry="Yes";sdfsdf
 		if(hungry=="Yes")
 		{
-			System.out.println("go and eat");
-		}
+asdas		}
 		ksjd
 		elsekkkahldkfhsdkefasd
 		{dfs
